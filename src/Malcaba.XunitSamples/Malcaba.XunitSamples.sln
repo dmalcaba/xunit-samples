@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30517.126
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Malcaba.XunitSamples.DataDriven", "Malcaba.XunitSamples.DataDriven\Malcaba.XunitSamples.DataDriven.csproj", "{D2BFC7EA-8B0F-4C75-A566-5F3B472EBE90}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Malcaba.XunitSamples.DataDriven", "Malcaba.XunitSamples.DataDriven\Malcaba.XunitSamples.DataDriven.csproj", "{D2BFC7EA-8B0F-4C75-A566-5F3B472EBE90}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Malcaba.XunitSamples.Extra", "Malcaba.XunitSamples.Extra\Malcaba.XunitSamples.Extra.csproj", "{61786325-C6D8-455D-819C-1948204851F2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{D2BFC7EA-8B0F-4C75-A566-5F3B472EBE90}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D2BFC7EA-8B0F-4C75-A566-5F3B472EBE90}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D2BFC7EA-8B0F-4C75-A566-5F3B472EBE90}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61786325-C6D8-455D-819C-1948204851F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61786325-C6D8-455D-819C-1948204851F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61786325-C6D8-455D-819C-1948204851F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61786325-C6D8-455D-819C-1948204851F2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
