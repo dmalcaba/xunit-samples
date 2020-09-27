@@ -7,6 +7,8 @@ namespace Malcaba.XunitSamples.DataDriven
     {
         [Theory]
         [InlineData(1, 2, 3)]
+        [InlineData(2, 3, 5)]
+        [InlineData(3, 5, 8)]
         public void AddTest(int a, int b, int expected)
         {
             var calculator = new Calculator();
